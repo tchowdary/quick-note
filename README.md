@@ -4,7 +4,7 @@ A modern, feature-rich web-based text editor with JSON formatting, timestamp con
 
 ## Live Demo
 
-Visit the live application: [Text Editor](https://tchowdary.github.io/quick-note)
+Visit the live application: [Quick Note](https://tchowdary.github.io/quick-note)
 
 No installation required! Simply open the link in your browser and start using the editor. Your content is automatically saved in your browser's local storage.
 
