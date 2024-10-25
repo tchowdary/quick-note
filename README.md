@@ -4,7 +4,7 @@ A modern, feature-rich web-based text editor with JSON formatting, timestamp con
 
 ## Live Demo
 
-Visit the live application: [Text Editor](https://tchowdary.github.io/text-editor)
+Visit the live application: [Text Editor](https://tchowdary.github.io/quick-note)
 
 No installation required! Simply open the link in your browser and start using the editor. Your content is automatically saved in your browser's local storage.
 
@@ -43,12 +43,12 @@ No installation required! Simply open the link in your browser and start using t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/tchowdary/text-editor.git
+git clone https://github.com/tchowdary/quick-note.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd text-editor
+cd quick-note
 ```
 
 3. Open `index.html` in your web browser or serve it using a local server.
