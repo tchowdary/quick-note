@@ -37,12 +37,12 @@ A modern, feature-rich web-based text editor with JSON formatting, timestamp con
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/quick-note.git
+git clone https://github.com/tchowdary/text-editor.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd quick-note
+cd text-editor
 ```
 
 3. Open `index.html` in your web browser or serve it using a local server.
@@ -116,4 +116,4 @@ Built with vanilla JavaScript and uses:
 
 ## Contact
 
-Tanveer - [@yourusername](https://twitter.com/0tanch)
+Tanveer - [@0tanch](https://twitter.com/0tanch)
