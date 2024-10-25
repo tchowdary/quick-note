@@ -2,6 +2,12 @@
 
 A modern, feature-rich web-based text editor with JSON formatting, timestamp conversion, and AI-powered text improvement capabilities.
 
+## Live Demo
+
+Visit the live application: [Text Editor](https://tchowdary.github.io/text-editor)
+
+No installation required! Simply open the link in your browser and start using the editor. Your content is automatically saved in your browser's local storage.
+
 ## Features
 
 - 📝 Rich Text Editing
