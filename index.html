@@ -519,6 +519,42 @@
         flex-direction: column;
       }
     }
+
+    /* Hide empty formatted display */
+    #formatted-display2:empty {
+      display: none;
+      border: none;
+    }
+
+    /* Update formatted display styling */
+    #formatted-display2 {
+      width: 100%;
+      flex-grow: 1;
+      padding: 15px;
+      border: 1px solid var(--button-bg);
+      border-radius: 0 0 5px 5px;
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      white-space: pre-wrap;
+      word-wrap: break-word;
+      overflow-wrap: break-word;
+      line-height: 1.5;
+      overflow-y: auto;
+      outline: none;
+      display: none;
+      /* Hide by default */
+    }
+
+    /* Only show formatted display when it has content */
+    #formatted-display2:not(:empty) {
+      display: block;
+    }
+
+    /* Hide the formatted display when the editor is visible */
+    .secondary-editor:not(.visible) #formatted-display2 {
+      display: none;
+      border: none;
+    }
   </style>
 </head>
 
